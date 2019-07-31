@@ -1,0 +1,11 @@
+[package]
+name="monika2"
+version = "0.0.1"
+description="the rust version of kaniel's monika discord bot"
+authors=["Sanae <atmatm6000@outlook.com>","The Weeb (Bill)"]
+keywords=["monika","discord bot"]
+
+[dependencies.serenity]
+version = "0.6.3"
+default-features = true
+features = ["voice"]
