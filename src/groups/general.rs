@@ -1,4 +1,5 @@
 //add commands like usual
+extern crate reqwest;
 
 use serenity::prelude::Context;
 use serenity::model::channel::Message;

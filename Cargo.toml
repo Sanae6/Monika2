@@ -9,3 +9,7 @@ keywords=["monika","discord bot"]
 version = "0.6.3"
 default-features = true
 features = ["voice"]
+
+[dependencies]
+reqwest = "0.9.19"
+ron = "0.5.1"
