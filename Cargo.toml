@@ -13,3 +13,4 @@ features = ["voice"]
 [dependencies]
 reqwest = "0.9.19"
 ron = "0.5.1"
+serde = "1"
